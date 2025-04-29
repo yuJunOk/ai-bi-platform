@@ -20,9 +20,10 @@
 
 1. Java + SpringBoot框架 + MySQL
 2. Hutool 工具类
-3. Swagger + Knife4j接口文档组合
-4. 火山方舟AI SDK接入 
-5. RabbitMQ
+3. Easy Excel 工具类
+4. Swagger + Knife4j接口文档组合
+5. 火山方舟AI SDK接入 
+6. RabbitMQ
 
 ## 三、网站截图
 
